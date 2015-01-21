@@ -1,0 +1,25 @@
+/*CSS*/
+.center {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+}
+
+.make-inline-block {
+  display: inline-block;
+}
+
+.no-clear {
+  clear: none;
+}
+
+.yes-clear {
+  clear: both;
+}
