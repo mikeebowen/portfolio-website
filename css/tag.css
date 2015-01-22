@@ -6,3 +6,22 @@ body {
   background-size: cover;
   background-attachment: fixed;
 }
+
+nav ul
+{
+    list-style-type: none;
+}
+
+nav > * {
+  position: absolute;
+  bottom: 0;
+}
+
+nav a {
+  font-family: Amatic SC;
+  font-weight: bold;
+  font-size: 3em;
+  line-height: 170%;
+  text-decoration: none;
+  color: #4C6C0A;
+}
